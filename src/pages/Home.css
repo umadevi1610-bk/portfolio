@@ -1,0 +1,49 @@
+.home {
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  padding: 60px 10%;
+  gap: 60px;
+}
+
+.home-left {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.home-right {
+  flex: 2;
+}
+
+.home-right h1 {
+  font-size: 3rem;
+}
+
+.home-right h3 {
+  color: #0077ff;
+  margin-top: 10px;
+}
+
+.home-right p {
+  margin-top: 15px;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.image-container {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  overflow: hidden;   /* Important */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.2)
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
