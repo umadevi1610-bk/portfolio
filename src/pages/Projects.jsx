@@ -79,6 +79,15 @@ const Projects = () => {
             >
               View on GitHub
             </a>
+
+            <a
+              href="jobnet-mocha.vercel.app"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Live Demo
+            </a>
+
           </div>
         </div>
 
