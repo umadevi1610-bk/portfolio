@@ -34,7 +34,7 @@ const Contact = () => {
           <span>🔗</span>
           <p>
             <a
-              href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"
+              href="https://www.linkedin.com/in/umadevi-balakrishnan-59b0b1376"
               target="_blank"
               rel="noopener noreferrer"
             >

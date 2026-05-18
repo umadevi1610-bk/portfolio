@@ -82,6 +82,66 @@ const Projects = () => {
           </div>
         </div>
 
+        {/* Project 4 - Smart Expense System */}
+        <div className="project-card">
+          <h3>Smart Expense System</h3>
+
+          <p>
+            A smart expense tracking web application that helps users manage
+            daily expenses, monitor spending, and organize financial records efficiently.
+          </p>
+
+          <span>React • JavaScript • CSS</span>
+
+          <div className="project-links">
+            <a
+              href="https://lnkd.in/gGf-tnYc"
+              target="_blank"
+              rel="noreferrer"
+            >
+              View on GitHub
+            </a>
+
+            <a
+              href="https://lnkd.in/gKhH-_rb"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Live Demo
+            </a>
+          </div>
+        </div>
+
+        {/* Project 5 - Weather Dashboard */}
+        <div className="project-card">
+          <h3>Weather Dashboard</h3>
+
+          <p>
+            A responsive weather dashboard application that provides real-time
+            weather updates, temperature, humidity, and forecast details for different cities.
+          </p>
+
+          <span>React • API • CSS • JavaScript</span>
+
+          <div className="project-links">
+            <a
+              href="https://github.com/umadevi1610-bk/weather-dashboard"
+              target="_blank"
+              rel="noreferrer"
+            >
+              View on GitHub
+            </a>
+
+            <a
+              href="https://weather-dashboard-y7n5.vercel.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Live Demo
+            </a>
+          </div>
+        </div>
+
       </div>
     </section>
   );
