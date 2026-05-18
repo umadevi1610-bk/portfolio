@@ -33,6 +33,7 @@ const Projects = () => {
               rel="noreferrer"
             >
               Live Demo
+
             </a>
           </div>
         </div>
@@ -81,7 +82,7 @@ const Projects = () => {
             </a>
 
             <a
-              href="jobnet-mocha.vercel.app"
+              href="https://jobnet-mocha.vercel.app"
               target="_blank"
               rel="noreferrer"
             >
